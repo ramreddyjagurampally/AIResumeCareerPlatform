@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AIResume.API/AIResume.API.csproj" />
+    <Project Path="src/AIResume.Application/AIResume.Application.csproj" />
+    <Project Path="src/AIResume.Domain/AIResume.Domain.csproj" />
+    <Project Path="src/AIResume.Infrastructure/AIResume.Infrastructure.csproj" />
+  </Folder>
+</Solution>

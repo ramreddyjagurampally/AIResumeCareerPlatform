@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsZjsbyq6Gk=",
+  "success": true,
+  "projectFilePath": "C:\\RamProjects\\AIResumeCareerPlatform\\backend\\src\\AIResume.API\\AIResume.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramre\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\ramre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\ramre\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

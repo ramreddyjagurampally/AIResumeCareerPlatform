@@ -1,0 +1,15 @@
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\bin\Debug\net10.0\AIResume.Application.deps.json
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\bin\Debug\net10.0\AIResume.Application.dll
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\bin\Debug\net10.0\AIResume.Application.pdb
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\bin\Debug\net10.0\AIResume.Domain.dll
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\bin\Debug\net10.0\AIResume.Domain.pdb
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.csproj.AssemblyReference.cache
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.AssemblyInfoInputs.cache
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.AssemblyInfo.cs
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.csproj.CoreCompileInputs.cache
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.4365B9EF.Up2Date
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.dll
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\refint\AIResume.Application.dll
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.pdb
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\ref\AIResume.Application.dll

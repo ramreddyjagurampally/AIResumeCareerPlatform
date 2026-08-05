@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBvfCX69cAw=",
+  "success": true,
+  "projectFilePath": "C:\\RamProjects\\AIResumeCareerPlatform\\backend\\src\\AIResume.Infrastructure\\AIResume.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramre\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
