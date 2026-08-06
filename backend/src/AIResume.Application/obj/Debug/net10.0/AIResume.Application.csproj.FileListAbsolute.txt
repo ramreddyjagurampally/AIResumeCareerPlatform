@@ -13,3 +13,4 @@ C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug
 C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\refint\AIResume.Application.dll
 C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.pdb
 C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\ref\AIResume.Application.dll
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Application\obj\Debug\net10.0\AIResume.Application.sourcelink.json

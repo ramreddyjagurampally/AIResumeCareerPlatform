@@ -1,6 +1,9 @@
-@AIResume.API_HostAddress = http://localhost:5269
+POST http://localhost:5269/api/users/register
+Content-Type: application/json
 
-GET {{AIResume.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
+{
+    "firstName": "Ram",
+    "lastName": "Reddy",
+    "email": "ram@example.com",
+    "password": "Password123"
+}

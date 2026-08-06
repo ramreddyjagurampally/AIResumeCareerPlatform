@@ -9,3 +9,4 @@ C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Domain\obj\Debug\net1
 C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Domain\obj\Debug\net10.0\refint\AIResume.Domain.dll
 C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Domain\obj\Debug\net10.0\AIResume.Domain.pdb
 C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Domain\obj\Debug\net10.0\ref\AIResume.Domain.dll
+C:\RamProjects\AIResumeCareerPlatform\backend\src\AIResume.Domain\obj\Debug\net10.0\AIResume.Domain.sourcelink.json
