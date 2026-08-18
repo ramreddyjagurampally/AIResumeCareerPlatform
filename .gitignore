@@ -14,3 +14,9 @@ appsettings.Local.json
 appsettings.Production.json
 
 *.log
+# Backend deployment files
+backend/publish/
+backend/api-deploy.zip
+
+# Uploaded resume files
+backend/src/AIResume.API/Uploads/

@@ -20,4 +20,22 @@ public class PasswordHasherService : IPasswordHasherService
             temporaryUser,
             password);
     }
+
+    public bool VerifyPassword(
+        string passwordHash,
+        string providedPassword)
+    {
+        var temporaryUser = new User(
+            "Temporary",
+            "User",
+            "temporary@example.com",
+            passwordHash);
+
+        var result = _passwordHasher.VerifyHashedPassword(
+            temporaryUser,
+            passwordHash,
+            providedPassword);
+
+        return result != PasswordVerificationResult.Failed;
+    }
 }

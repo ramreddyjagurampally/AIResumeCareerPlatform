@@ -1,9 +1,4 @@
-POST http://localhost:5269/api/users/register
-Content-Type: application/json
+### Profile with JWT
 
-{
-    "firstName": "Ram",
-    "lastName": "Reddy",
-    "email": "ram@example.com",
-    "password": "Password123"
-}
+GET http://localhost:5269/api/users/profile
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkMGJhYmYyYy0wNjNjLTRjNDMtYjc5MC01MzIyNjBjMGJhZWYiLCJlbWFpbCI6InJhbUBleGFtcGxlLmNvbSIsImZpcnN0TmFtZSI6IlJhbSIsImxhc3ROYW1lIjoiUmVkZHkiLCJleHAiOjE3ODY0NzEyMjgsImlzcyI6IkFJUmVzdW1lLkFQSSIsImF1ZCI6IkFJUmVzdW1lLkNsaWVudCJ9.g3vZdN_BRZaGogplm2PTcyWn6jqAmQ4cZ6knLOdkNks
